@@ -1,2 +1,3 @@
-# demo-django-uwsgi
-Demo project for setting up Django to run as uWSGI.
+# Demo Django Docker NGINX Production Deployment
+
+Demo of a Django deployment setup using Docker.
